@@ -1,6 +1,6 @@
 # Diseño Físico e Implementación de SGBDR
 
-Para esra práctica vamos a usar el sistema "BiblioGuest2.0"
+Para esta práctica vamos a usar el sistema "BiblioGuest2.0"
 
 ---
 
